@@ -16,3 +16,6 @@ variable "db_subnet_ids" {}
 variable "count" {}
 
 variable "instance_class" {}
+
+variable "vpc_id" {}
+variable "cidr_block" {}
